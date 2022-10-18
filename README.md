@@ -63,7 +63,7 @@
             <p>Contains all the images that make the app work.</p>
         </ul>
     </p>
-    <p>Aditional, the GitHub repository have a .exe file to a directly execute of the app, maked with Pyinstaller. </p>
+    <p>Aditional, the GitHub repository have a .exe file to a directly execute of the app, maked with Pyinstaller. The wow_execute.py can execute the app from the code editor.</p>
 </div>
 <div id="contact" align="center">
     <br>
