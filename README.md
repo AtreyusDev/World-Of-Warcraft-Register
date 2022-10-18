@@ -69,6 +69,8 @@
     <br>
     <hr>
     <br>
-    <h2>✉ Contact: e-mail = jizdsing@gmail.com | 📱 Whatsapp = <a href="https://wa.me/584142383498">+584142384398</a></h2>
+    <h1>✉Contact📞</h1>
+    <br>
+    <h2>📩e-mail = jizdsing@gmail.com | 📱 Whatsapp = <a href="https://wa.me/584142383498">+584142384398</a></h2>
     <br>
 </div>
