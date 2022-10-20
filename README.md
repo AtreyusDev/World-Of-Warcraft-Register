@@ -40,7 +40,7 @@
             <li>Tkinter (Library of Python)</li>
             <li>Sqlite3</li>
         </ul>
-    <p>Python is the lenguage used for develop the app. Tkinter has been used to make the widgets and the all graphic interface of the app
+    <p>Python is the lenguage used for develop the app. Tkinter has been used to make the widgets and all the graphic interface of the app
         and Sqlite3, the default Python database module, has been used to the CRUD of the app. All with POO.
     </p>
     <p>The repository have three folders (app, data_base, images):
@@ -57,7 +57,7 @@
                     <li>bd.py</li>
                     <p>Contains all the methods to conect with the database.</p>
                     <li>data_base_regist.bd</li>
-                    <p>This is the database. Contains all the regist the user enters.</p>
+                    <p>This is the database. Contains all the regist that the user enters.</p>
                 </ul>
             <li>images/</li>
             <p>Contains all the images that make the app work.</p>
